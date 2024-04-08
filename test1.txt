@@ -1,1 +1,1 @@
-kjhugytrdf
+print('Hello World')
