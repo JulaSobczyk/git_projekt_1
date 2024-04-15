@@ -3,3 +3,4 @@ print('Hello from development')
 
 print('zmiana pierwsza dev')
 print('Zmiana druga dev')
+print('Zmiana test trzy test')
