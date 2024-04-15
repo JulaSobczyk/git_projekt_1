@@ -2,4 +2,9 @@ print('Hello World')
 print('Hello from development')
 
 print('zmiana pierwsza dev')
+<<<<<<< HEAD
 print('Zmiana druga dev')
+=======
+print('Zmiana druga dev')
+print('Zmiana test trzy test')
+>>>>>>> development
