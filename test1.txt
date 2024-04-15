@@ -7,3 +7,5 @@ print('Zmiana druga dev')
 print('Zmiana test trzy test')
 print('test kolejne zmiany development')
 print('dla testu jeszcze zmiana')
+print('Zmiana druga dev')
+
