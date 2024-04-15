@@ -4,3 +4,5 @@ print('Hello from development')
 print('zmiana pierwsza dev')
 print('Zmiana druga dev')
 print('Zmiana test trzy test')
+
+print('test kolejne zmiany development')
